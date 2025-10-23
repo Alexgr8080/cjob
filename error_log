@@ -1,0 +1,41 @@
+[23-Oct-2025 04:38:47 UTC] PHP Parse error:  syntax error, unexpected token "`" in /home/gotoa957/jobs.gotoaus.com/hello.php on line 46
+[23-Oct-2025 05:08:15 UTC] PHP Fatal error:  Cannot redeclare isLoggedIn() (previously declared in /home/gotoa957/jobs.gotoaus.com/index.php:6) in /home/gotoa957/jobs.gotoaus.com/config.php on line 81
+[23-Oct-2025 05:08:15 UTC] PHP Fatal error:  Cannot redeclare isLoggedIn() (previously declared in /home/gotoa957/jobs.gotoaus.com/index.php:6) in /home/gotoa957/jobs.gotoaus.com/config.php on line 81
+[23-Oct-2025 05:11:48 UTC] PHP Fatal error:  Cannot redeclare isLoggedIn() (previously declared in /home/gotoa957/jobs.gotoaus.com/index.php:6) in /home/gotoa957/jobs.gotoaus.com/config.php on line 64
+[23-Oct-2025 05:13:58 UTC] PHP Fatal error:  Cannot redeclare isLoggedIn() (previously declared in /home/gotoa957/jobs.gotoaus.com/index.php:6) in /home/gotoa957/jobs.gotoaus.com/config.php on line 64
+[23-Oct-2025 05:13:58 UTC] PHP Fatal error:  Cannot redeclare isLoggedIn() (previously declared in /home/gotoa957/jobs.gotoaus.com/index.php:6) in /home/gotoa957/jobs.gotoaus.com/config.php on line 64
+[23-Oct-2025 19:49:43 Pacific/Auckland] PHP Warning:  Undefined variable $conn in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 19:49:43 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gotoa957/jobs.gotoaus.com/job_detail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 20:54:13 Pacific/Auckland] PHP Warning:  Undefined variable $conn in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 20:54:13 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gotoa957/jobs.gotoaus.com/job_detail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 20:54:18 Pacific/Auckland] PHP Warning:  Undefined variable $conn in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 20:54:18 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gotoa957/jobs.gotoaus.com/job_detail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 20:55:17 Pacific/Auckland] PHP Warning:  Undefined variable $conn in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 20:55:17 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gotoa957/jobs.gotoaus.com/job_detail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 21:01:17 Pacific/Auckland] PHP Warning:  Undefined variable $conn in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 21:01:17 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gotoa957/jobs.gotoaus.com/job_detail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 21:01:33 Pacific/Auckland] PHP Warning:  Undefined variable $conn in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 21:01:33 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gotoa957/jobs.gotoaus.com/job_detail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 21:01:41 Pacific/Auckland] PHP Warning:  Undefined variable $conn in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
+[23-Oct-2025 21:01:41 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gotoa957/jobs.gotoaus.com/job_detail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gotoa957/jobs.gotoaus.com/job_detail.php on line 14
