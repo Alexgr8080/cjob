@@ -1,0 +1,8 @@
+[23-Oct-2025 19:32:44 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to undefined function jsonResponse() in /home/gotoa957/jobs.gotoaus.com/api/jobs.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/gotoa957/jobs.gotoaus.com/api/jobs.php on line 53
+[23-Oct-2025 19:33:10 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to undefined function jsonResponse() in /home/gotoa957/jobs.gotoaus.com/api/jobs.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/gotoa957/jobs.gotoaus.com/api/jobs.php on line 53
