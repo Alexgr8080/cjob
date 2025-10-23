@@ -1,0 +1,4 @@
+[23-Oct-2025 19:30:40 Pacific/Auckland] Stats error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_verified' in 'field list'
+[23-Oct-2025 19:30:40 Pacific/Auckland] Recent applications error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.created_at' in 'order clause'
+[23-Oct-2025 19:32:09 Pacific/Auckland] Stats error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_verified' in 'field list'
+[23-Oct-2025 19:32:09 Pacific/Auckland] Recent applications error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.created_at' in 'order clause'
